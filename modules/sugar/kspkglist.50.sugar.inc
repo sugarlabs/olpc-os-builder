@@ -65,3 +65,6 @@ notification-daemon
 
 # standard part of of PyGTK, used by some activities (#11053)
 pygtk2-libglade
+
+# Useful fonts
+opendyslexic-fonts
