@@ -46,6 +46,8 @@ olpc-library
 
 # for Tuxmath activity
 SDL_Pango
+tuxmath
+tuxpaint
 
 # for Physics
 pybox2d
