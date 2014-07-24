@@ -11,8 +11,8 @@ sugar-cp-frame
 sugar-cp-language
 sugar-cp-modemconfiguration
 sugar-cp-network
-sugar-cp-webservices
 sugar-cp-power
+sugar-teachershare
 
 # additional sugar packages
 libxml2-python
