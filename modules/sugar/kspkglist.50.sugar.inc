@@ -15,6 +15,8 @@ sugar-cp-power
 sugar-teachershare
 
 # additional sugar packages
+dconf
+gstreamer-python
 libxml2-python
 webkitgtk3
 espeak
