@@ -12,6 +12,7 @@ sugar-cp-language
 sugar-cp-modemconfiguration
 sugar-cp-network
 sugar-cp-power
+sugar-cp-updater
 sugar-teachershare
 
 # additional sugar packages
@@ -56,9 +57,6 @@ pybox2d
 
 # for text-to-speech in Read
 gstreamer-plugins-espeak
-
-# using a non-upstream updater temporarily (#10641)
-sugar-update-control
 
 # explicitly specify dependencies on GNOME's implementation of certain
 # components, otherwise the KDE ones will be brought in by default
